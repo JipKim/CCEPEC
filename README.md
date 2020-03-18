@@ -1,4 +1,4 @@
-# PSCC2020_CCEPEC
+# CCEPEC
 
 This code was developed under Julia v1.2.0/JuMP0.20 by Jip Kim in 2019.
 The following packages must be installed:
